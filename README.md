@@ -3,6 +3,7 @@
 # 개요 
 
 Use : Spring JPA. mySQL, Docker, Aws
+
 Goal : 셀러와 구매자 사이를 중계 해주는 커머스 서버를 구축 
 
 ##회원 
